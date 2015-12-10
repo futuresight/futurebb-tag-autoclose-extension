@@ -1,0 +1,8 @@
+This is the FutureBB automatic tag closing extension.
+
+If you type something like this in:
+```[b]bold [i]italic```
+and then just type in "[/", it will automatically close the tag for you with the "[/i]", and if you do that again, it will add "[/b]" to close the whole thing.
+
+Requirements:
+FutureBB Version: 1.4
